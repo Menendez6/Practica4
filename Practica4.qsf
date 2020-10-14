@@ -62,8 +62,8 @@ set_location_assignment PIN_W12 -to b[0]
 set_location_assignment PIN_U12 -to b[1]
 set_location_assignment PIN_U11 -to b[2]
 set_location_assignment PIN_M2 -to b[3]
-set_location_assignment PIN_U22 -to a_igual_b
-set_location_assignment PIN_U21 -to a_mayor_b
+set_location_assignment PIN_U21 -to a_igual_b
+set_location_assignment PIN_U22 -to a_mayor_b
 set_location_assignment PIN_V22 -to a_menor_b
 set_location_assignment PIN_E2 -to d_a[6]
 set_location_assignment PIN_F1 -to d_a[5]

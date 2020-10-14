@@ -10,8 +10,7 @@ end BinA7Seg;
 
 architecture behavioral of BinA7Seg is
 	
-begin
-	
+begin	
 with E select
 	salida <=
 	"0000001" when "0000",
